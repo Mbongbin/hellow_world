@@ -1,2 +1,5 @@
 # hellow_world
-just another repository
+Jermen here
+student
+like music and movies
+thats me
